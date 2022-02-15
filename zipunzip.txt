@@ -1,2 +1,14 @@
 1. yum cvf kochuri.tar
 note cvf(mean create new tar file)
+
+2. yum mv kochuri.tar choya/
+ note ai file jodi move kori tar command
+
+ 3. yum xvf kochuri.tar
+ note ai file extrac korar command
+
+ 4. yum gzip kochuri.tar
+ note ai file gip korar jonno
+
+ 5.yum gzip -d kochuri.tar.gz
+note zip file unzip korar command
