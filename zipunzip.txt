@@ -1,0 +1,2 @@
+1. yum cvf kochuri.tar
+note cvf(mean create new tar file)
